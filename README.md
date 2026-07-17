@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Sakshi Tripathi</h1>
-<h3 align="center">Full Stack Developer | 3-star on Codechef | Codeforces (Max. 1017) </h3> | CGPA : 8.6
+<h3 align="center">Full Stack Developer | 3-star on Codechef | Codeforces (Max. 1017) | CGPA : 8.6 </h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Crafting+Smart+%26+Impactful+Digital+Experiences;Building+Future-Ready+Web+%26+AI+Solutions;Always+Learning+%7C+Always+Building!" />
