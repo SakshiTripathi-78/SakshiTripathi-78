@@ -29,7 +29,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🚀 IntelligentGo |A full-stack intelligent route planning application that finds the cheapest fuel stops across Indian highways, powered by real-time weather data and AI-driven safety advisories.| MERN • Render • Vercel |
-| 🚀 Badminton court Booking System |A full-stack badminton court booking system and matchmaking system.| MERN • PostgreSQL • Docker |
+| 🚀 Badminton court Booking System |A full-stack application for managing badminton court bookings, player matchmaking, and game challenges. The system uses a polyglot persistence backend architecture, leveraging PostgreSQL for relational data (users, courts, schedule bookings, and match challenges) and MongoDB for flexible, dynamic player skill profiles.| MERN • PostgreSQL • Docker |
 | 📘 GitHub Profile Page | Fully designed developer portfolio with stats, trophies, and analytics | Markdown • GitHub API |
 
 </div>
